@@ -8,14 +8,14 @@ Atividade realizada durante o curso **Java COMPLETO Programação Orientada a Ob
 curso organizado pela [DevSuperior](https://devsuperior.com.br "Site da DevSuperior").
 
 ```diff 
-Durante a Atividade percebi a semelhança da didática com o sistema de Incremento de Produto usado no 
-+ Scrum (Metodologias ágeis)
+Durante a Atividade percebi a semelhança da didática com o sistema de 
+Incremento de Produto usado no + Scrum(Metodologias ágeis)
 ```
 
 
 ## Explicação
 
-<img src="https://github.com/svapollo/exception-training-java/blob/main/assets/sprint.jpg" width="800">
+<img src="https://github.com/svapollo/exception-training-java/blob/main/assets/sprint.jpg" width="500">
 
 A cada ciclo uma nova funcionalidade foi incrementada e em todos os ciclos foi possível ter um entregável.
 
