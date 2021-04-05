@@ -7,10 +7,8 @@
 Atividade realizada durante o curso **Java COMPLETO Programação Orientada a Objetos +Projetos**, 
 curso organizado pela [DevSuperior](https://devsuperior.com.br "Site da DevSuperior").
 
-```diff 
-Durante a Atividade percebi a semelhança da didática com o sistema de 
-Incremento de Produto usado no + Scrum(Metodologias ágeis)
-```
+**Durante a Atividade percebi a semelhança da didática com o sistema de** 
+**Incremento de Produto usado no Scrum(Metodologias ágeis)**
 
 
 ## Explicação
