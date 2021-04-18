@@ -13,7 +13,7 @@ curso organizado pela [DevSuperior](https://devsuperior.com.br "Site da DevSuper
 
 ## Explicação
 
-<img src="https://github.com/svapollo/exception-training-java/blob/main/assets/sprint.jpg" width="500">
+<img src="https://github.com/svapollo/exception-training-java/blob/main/assets/spring.jpg">
 
 A cada ciclo uma nova funcionalidade foi incrementada e em todos os ciclos foi possível ter um entregável.
 
